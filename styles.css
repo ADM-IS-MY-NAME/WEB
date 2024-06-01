@@ -4,3 +4,6 @@ body {
 p {
     color: rgb(200,200,255)
 }
+html {
+    background-color: rgb(45, 45, 60);
+}
