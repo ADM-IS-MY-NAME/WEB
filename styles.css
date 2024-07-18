@@ -1,10 +1,18 @@
 body {
-    background-color: rgb(46, 46, 59);
+    background-color: rgb(46, 46, 46);
 }
 p {
-    color: rgb(223, 223, 255);
-    margin: 100%;
+    color: rgb(223, 223, 223);
+    font-size: 20px;
 }
-html {
-    background-color: rgb(46, 46, 59);
+h1 {
+    color: rgb(200, 200, 200)
+}
+a {
+    color: rgb(255, 255, 255);
+    font-size: 100px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
 }
