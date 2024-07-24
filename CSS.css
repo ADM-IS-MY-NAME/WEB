@@ -1,13 +1,6 @@
 body {
     background-color: rgb(46, 46, 46);
 }
-p {
-    color: rgb(223, 223, 223);
-    font-size: 20px;
-}
-h1 {
-    color: rgb(200, 200, 200)
-}
 a {
     color: rgb(255, 255, 255);
     font-size: 50px;
@@ -34,4 +27,11 @@ a {
     background-color: rgb(30, 30, 30);
     text-align: center;
     width: 50%;
+}
+.text_level_one_p {
+    padding: 15px;
+    margin: auto;
+    text-align: center;
+    color: rgb(207, 207, 207);
+    text-shadow: 0px 0px 10px rgb(255, 255, 255);
 }
