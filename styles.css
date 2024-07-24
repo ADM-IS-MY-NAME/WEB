@@ -10,9 +10,19 @@ h1 {
 }
 a {
     color: rgb(255, 255, 255);
-    font-size: 100px;
-    position: absolute;
+    font-size: 50px;
     top: 50%;
     width: 100%;
     text-align: center;
+}
+.sticky_bar {
+    z-index: 99;
+    position: sticky;
+    top: 0;
+    border-style: outset;
+    border-width: 5px;
+    border-color: rgb(146, 146, 146);
+    background-color: rgb(146, 146, 146);
+    text-align: center;
+    width: 100%;
 }
