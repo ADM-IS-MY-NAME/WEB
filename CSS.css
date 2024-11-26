@@ -31,11 +31,11 @@ a {
 .text_level_one_div_in_div {
     margin: auto;
     border-style: outset;
-    border-width: 5px;
+    border-width: 1px;
     border-color: rgb(30, 30, 30);
     background-color: rgb(30, 30, 30);
     text-align: center;
-    width: 50%;
+    width: 100%;
 }
 .text_level_one_p {
     padding: 2px;
